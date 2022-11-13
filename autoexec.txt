@@ -1,6 +1,0 @@
--freq 144 -novid -tickrate 128 +fps_max 0 -w 1280 -h 720
-
-
-
-####### sense game #########
-
